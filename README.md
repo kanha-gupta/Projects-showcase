@@ -6,7 +6,7 @@ Welcome to the Hacktoberfest Project Showcase! This repository is a platform for
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Project categories](#Project categories)
+- [Project categories](#Project-categories)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Getting Started](#getting-started)
 
