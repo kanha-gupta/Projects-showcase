@@ -2,3 +2,4 @@
 
 Streamline user data collection with our Registration Form App. Easily gather user information, prevent duplicate entries, and manage multiple registrations—all in one user-friendly mobile application. Simplify event sign-ups, membership registrations, and more with this efficient and secure solution.
 
+
