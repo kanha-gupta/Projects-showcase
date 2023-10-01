@@ -4,5 +4,10 @@ Imgen - is a service for image generating and effects engine using the "ImageMag
 
 P.S: It was written for our discord bot (RickBot), which is already out of service. At the time this bot was serving 250,000 Discord server. and this service handeld more than 15,000 unique requests a day!
 
+Tech Stack:
+    - Python
+    - RethinkDB
+    - Redis
+
 \- RickBot Dev Team
 
