@@ -34,6 +34,19 @@ We welcome contributions from everyone! Whether you're a seasoned developer or a
      2. Link to their projects source code and deployment(if available)
      3. Tech stack
      4. Your github profile
+  - Template for the file,
+    ```yaml
+    ---
+    title: Name of the project
+    description: description about your project
+    link: to the projects source code and deployment(if available)
+    tech stack:
+      - technologies
+      - used
+      - in the project
+    github profile link: url to your github profile
+    ---
+    ```
 - **File naming conventions -** File should be name with the title of their project or a should describe what project do.
   **For Example** : if project is about ecommerce website for shoes, file name can be 'shoes-ecommerce-website.md'
 - If you require to put multiple files, Please consider making a subfolder for it following prescribed naming convention.
